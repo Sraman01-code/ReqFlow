@@ -126,9 +126,6 @@ Everything runs in containers:
 |-- docker-compose.yml
 |-- LICENSE
 
-markdown
-Copy code
-
 ---
 
 # 🛠️ Tech Stack
