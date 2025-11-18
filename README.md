@@ -142,6 +142,7 @@ Backend → http://localhost:5000
 Both services communicate inside the Docker network automatically.
 
 ## 🧪 Local Development (Without Docker)
+
 Install deps:
 
 ```bash
@@ -159,6 +160,7 @@ npm run dev
 npm run dev
 ```
 # 🔐 OAuth2 Flow
+
 - User chooses OAuth provider (Google, etc.)
 - Provider redirects to backend callback
 - Backend verifies identity and generates tokens
@@ -167,7 +169,8 @@ npm run dev
 - This removes the need for password-based login and keeps things secure.
 
 # 📄 API Documentation
--Swagger JSON is generated at:
+
+- Swagger JSON is generated at:
 
 ```bash
 backend/src/swagger.json
@@ -178,8 +181,10 @@ backend/src/swagger.json
 /api/docs
 ```
 # 🤝 Contributing
+
 Contributions are welcome!
 If you find something to improve, feel free to open an issue or submit a PR.
 
 # 📜 License
+
 MIT License
