@@ -32,6 +32,18 @@ Our team focuses on crafting developer experiences that feel intuitive, fast, an
 
 # Key Features
 
+### Upcoming Feature: Engineer Mode  
+A dedicated workspace designed for power users.  
+Engineer Mode introduces an animated “wave” interaction that transforms the UI theme as it flows across the screen.  
+Along with the visual unlock, this mode will enable advanced capabilities such as:
+
+- AI-assisted request generation  
+- Intelligent workflow chaining  
+- Automated testing sequences  
+- Smart suggestions for headers, params, and auth flows  
+
+This feature is currently in development and will be introduced in an upcoming release.
+
 ### Authentication
 - OAuth 2.0 login support  
 - JWT access tokens + refresh tokens  
