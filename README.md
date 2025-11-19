@@ -26,9 +26,7 @@ ReqFlow is designed as a modern alternative to cluttered API clients—clean UI,
 
 Our team focuses on crafting developer experiences that feel intuitive, fast, and scalable.
 
-The goal is simple: make daily API testing fast, organized, and actually pleasant to use.
-
-**OpenGraph Labs — Tools for developers, built by developers**
+**OpenGraph Labs — "Tools for developers, built by developers"**
 
 ---
 
