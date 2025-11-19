@@ -18,7 +18,7 @@
 
 ---
 
-# ⚡ ReqFlow — Modern, Container-Ready API Testing Workspace
+# ReqFlow — Modern, Container-Ready API Testing Workspace
 
 ReqFlow is a full-stack API testing and request-management tool designed for developers who want a clean workflow without the clutter.  
 You get a smooth React + TypeScript UI, a strong Express backend, OAuth2 support, email verification, an in-browser request editor, and a fully containerized setup using Docker and Nginx.
@@ -27,15 +27,15 @@ The goal is simple: make daily API testing fast, organized, and actually pleasan
 
 ---
 
-# ✨ Key Features
+# Key Features
 
-### 🔐 Authentication
+### Authentication
 - OAuth 2.0 login support  
 - JWT access tokens + refresh tokens  
 - Protected API routes  
 - Email verification flow  
 
-### 🖥️ Frontend Workspace
+### Frontend Workspace
 - Request editor (headers, body, params)  
 - JSON response viewer  
 - Multiple tabs for switching between requests  
@@ -44,7 +44,7 @@ The goal is simple: make daily API testing fast, organized, and actually pleasan
 - Light/dark themes  
 - Glassmorphic UI styling  
 
-### 🧩 Backend API
+### Backend API
 - Express + TypeScript  
 - Passport OAuth integration  
 - Database models for collections, requests, tokens, and users  
@@ -53,7 +53,7 @@ The goal is simple: make daily API testing fast, organized, and actually pleasan
 - Swagger documentation  
 - Clean controllers + route separation  
 
-### 🐳 Dockerized Architecture
+### Dockerized Architecture
 Everything runs in containers:
 - Frontend served through **Nginx**  
 - Backend runs on **Node.js**  
@@ -62,7 +62,7 @@ Everything runs in containers:
 
 ---
 
-# 🧱 Project Structure
+# Project Structure
 
 ```text
 backend/
@@ -103,7 +103,7 @@ RELEASENOTES.md
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 **Frontend**
 - React 18  
@@ -129,7 +129,7 @@ RELEASENOTES.md
 
 ---
 
-## 🐳 Running with Docker
+## Running with Docker
 
 Everything can be started with one command:
 
@@ -141,7 +141,7 @@ Backend → http://localhost:5000
 
 Both services communicate inside the Docker network automatically.
 
-## 🧪 Local Development (Without Docker)
+## Local Development (Without Docker)
 
 Install deps:
 
@@ -159,7 +159,7 @@ npm run dev
 ```bash
 npm run dev
 ```
-# 🔐 OAuth2 Flow
+# OAuth2 Flow
 
 - User chooses OAuth provider (Google, etc.)
 - Provider redirects to backend callback
@@ -168,7 +168,7 @@ npm run dev
 - AuthContext manages session state
 - This removes the need for password-based login and keeps things secure.
 
-# 📄 API Documentation
+# API Documentation
 
 - Swagger JSON is generated at:
 
@@ -180,11 +180,11 @@ backend/src/swagger.json
 ```bash
 /api/docs
 ```
-# 🤝 Contributing
+# Contributing
 
 Contributions are welcome!
 If you find something to improve, feel free to open an issue or submit a PR.
 
-# 📜 License
+# License
 
 MIT License
