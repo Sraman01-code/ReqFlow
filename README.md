@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://api.apiflash.com/v1/urltoimage?access_key=demo&url=https://dummyimage.com/1200x300/1a1a1a/ffffff&text=REQFLOW:+Modern+API+Testing+Workspace" alt="ReqFlow Banner" />
+  <img src="frontend/favicon/ms-icon-70x70.png" alt="ReqFlow Banner" />
 </p>
 
 <br/>
